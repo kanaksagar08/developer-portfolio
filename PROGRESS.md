@@ -6,7 +6,7 @@
 
 ## HackerRank
 
-- Profile URL : https://www.hackerrank.com/profile/kanak sagar
+- Profile URL : https://www.hackerrank.com/profile/kanaksagar
 
 - Problems solved : 3 (Say Hello, Python If-Else, Arithmetic Operators)
 
